@@ -1,3 +1,3 @@
-# Simple Starter
+# jsrog
 
-Simple JS build starter for simple, client-only demos.
+Rogue-like WIP

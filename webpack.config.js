@@ -71,6 +71,9 @@ module.exports = (env,argv) => {
                         patterns: [
                             {
                                 from: "media/**/*"
+                            },
+                            {
+                                from: "assets/**/*"
                             }
                         ]
                     }
